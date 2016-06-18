@@ -1,0 +1,35 @@
+<body>
+<div>
+<h1>
+Enter 2 numbers:
+</h1>
+<input type="number1" id="n1" value=""/>
+<input type="number2" id="n2" value=""/>
+<input type="button" value="find max" onclick="Max();"/>
+</div>
+<br>
+<div>
+<h1>
+Enter 3 numbers:
+</h1>
+<input type="number1" id="n3" value=""/>
+<input type="number2" id="n4" value=""/>
+<input type="number3" id="n5" value=""/>
+<input type="button" value="find max of three" onclick="Maxofthree();"/>
+</div>
+<br>
+<div>
+<h1>
+Enter a character to check:
+<input type="char" id="c1" value=""/>
+<input type="button" value="is it a vowel?" onclick="vowel();"/>
+</h1>
+</div>
+<br>
+<div>
+<h1>
+Enter a string to translate:
+<input type="char" id="n7" value=""/>
+<input type="button" value="is it a vowel?" onclick="tran();"/>
+</h1>
+</div>
